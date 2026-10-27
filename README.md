@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRCTM Dashboard
 
 The Cybersecurity Risk Communication Threshold Model dashboard is a Streamlit
@@ -24,3 +25,6 @@ environment variables, or credentials are required.
 
 The displayed scores are researcher-entered example values, as described in the
 dashboard methodology.
+=======
+# crctm-dashboard-RM
+>>>>>>> d993d766ecf85cfe7927c91ac008771317f0a306
